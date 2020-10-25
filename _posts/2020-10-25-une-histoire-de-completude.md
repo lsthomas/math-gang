@@ -7,3 +7,4 @@ permalink: completude/
 date: 2020-10-25
 ---
 
+L'ensemble $\mathbb{R} \mathbf{R} \mathcal{R}$
